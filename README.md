@@ -97,5 +97,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Cynite users
 ```
 
-Cʀᴇᴅɪᴛ ›› [Filmstrem](https://t.me/Filmstrem) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/Filmstrem)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [Filmstrem](https://t.me/Filmstrem)
+Cʀᴇᴅɪᴛ ›› [𝐅𝐢𝐥𝐦𝐬𝐭𝐫𝐞𝐦](https://t.me/Filmstrem) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/Filmstrem)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐅𝐢𝐥𝐦𝐬𝐭𝐫𝐞𝐦](https://t.me/Filmstrem)
