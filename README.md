@@ -59,7 +59,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CyniteOfficial/Auto-Filter-Bot
+git clone https://github.com/Prakash6370099/Auto-Filter-Bot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -81,6 +81,7 @@ python3 bot.py
 * /delall - delete all filters
 * /deleteall - delete all index(autofilter)
 * /delete - delete a specific file from index.
+* /migrate - This command will list the possible chats for initiating migration, rest of the other steps are simplified by using buttons.
 * /info - get user info
 * /id - get tg ids.
 * /imdb - fetch info from imdb.
@@ -96,5 +97,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Cynite users
 ```
 
-Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/CyniteOfficial)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://t.me/CyniteBots)
+Cʀᴇᴅɪᴛ ›› [Filmstrem](https://t.me/Filmstrem) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/Filmstrem)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [Filmstrem](https://t.me/Filmstrem)
